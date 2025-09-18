@@ -343,10 +343,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-**DETECTED:**
-<img width="1002" height="938" alt="image" src="https://github.com/user-attachments/assets/bcc8cdf4-af7d-4279-92c2-6013a40cca05" />
 **NOT DETECTED:**
-<img width="1063" height="1033" alt="image" src="https://github.com/user-attachments/assets/3e4a135f-b3ab-4cfd-bf53-ad4766251387" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/459814b8-df81-49c6-9290-92ac1d2e3692" />
+
+
+**DETECTED:**
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/833ccd4b-6203-4323-bb98-56198d03a097" />
+
 
 
 
